@@ -21,13 +21,14 @@ Olá! Sou Fabio Mendes, estudante de Sistemas de Informação na Universidade do
 
 - **[Biblioteca - Projeto de Controle de Empréstimos](https://github.com/fabiomendesdevl/CONTRLOLE-BIBLIOTECA-CRUD-EMPRESTIMO)**: Uma aplicação desenvolvida como parte do meu curso.
 
-## 🔍 Oportunidades de Estágio
-
-Atualmente, busco estágio na área de tecnologia, onde posso aplicar meu conhecimento e aprender em projetos desafiadores. Estou aberto a colaborações e sugestões.
-
 ## 📊 Estatísticas do GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=fabiomendesdevl&show_icons=true&theme=radical)
+![Estatísticas de Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiomendesdevl&layout=compact&theme=radical)
+
+## 🔍 Oportunidades de Estágio
+
+Atualmente, busco estágio na área de tecnologia, onde posso aplicar meu conhecimento e aprender em projetos desafiadores. Estou aberto a colaborações e sugestões.
 
 ## 📫 Contato
 
