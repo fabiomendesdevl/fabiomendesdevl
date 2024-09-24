@@ -25,6 +25,7 @@ Olá! Sou Fabio Mendes, estudante de Sistemas de Informação na Universidade do
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=fabiomendesdevl&show_icons=true&theme=radical)
 ![Estatísticas de Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiomendesdevl&layout=compact&theme=radical)
+![Gráfico de Pizza das Linguagens](https://github-readme-stats.vercel.app/api/pin/?username=fabiomendesdevl&repo=CONTRLOLE-BIBLIOTECA-CRUD-EMPRESTIMO&theme=radical)
 
 ## 🔍 Oportunidades de Estágio
 
