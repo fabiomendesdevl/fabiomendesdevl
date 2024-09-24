@@ -1,35 +1,36 @@
-# Meu Perfil no GitHub 🚀
+# Perfil do GitHub de Fabio Mendes 🚀
 
-Olá! Sou Fabio, estudante de Sistemas de Informação na Universidade do Estado de Minas Gerais (UEMG). Este é o meu espaço no GitHub, onde irei compartilhar projetos e experiências relacionadas ao meu aprendizado em tecnologia.
+Olá! Sou Fabio Mendes, estudante de Sistemas de Informação na Universidade do Estado de Minas Gerais (UEMG). Este repositório é dedicado à documentação dos meus projetos e experiências no campo da tecnologia.
 
-## 📚 Cursando Atualmente
+## 📚 Formação Acadêmica
 
-- **Sistemas de Informação na UEMG:** Comprometido(a) em aprimorar meus conhecimentos e habilidades na área de tecnologia da informação.
+- **Sistemas de Informação, UEMG:** Focado na aquisição de habilidades avançadas em tecnologia da informação.
 
-## 💻 Experiência e Conhecimentos
+## 💻 Habilidades Técnicas
 
-- **Programação Orientada a Objetos (POO):** Desenvolvi habilidades sólidas em POO, aplicando conceitos fundamentais para criar soluções eficientes e modulares.
+- **Programação Orientada a Objetos (POO):** Experiência sólida em POO, desenvolvendo soluções escaláveis e eficientes.
+- **Banco de Dados:** Proficiente em SQL e SQLite, com prática em design, manipulação e otimização de bancos de dados.
+- **Desenvolvimento em C#:** Experiência no desenvolvimento de aplicações robustas utilizando C#.
 
-- **Banco de Dados SQL e SQLite:** Experiência prática na manipulação de dados utilizando SQL e SQLite para construir e otimizar bancos de dados.
+## 🚀 Cursos e Aprendizado Contínuo
 
-- **C#:** Desenvolvimento de aplicações utilizando a linguagem C# para criar soluções e sistemas.
+- **Java Completo - Programação Orientada a Objetos e Projetos (Nelio Alves):** Aprimorando conhecimentos em Java com projetos práticos.
+- **One Oracle Next Education - Java + Spring Boot:** Iniciando aprendizado intensivo em Java e Spring Boot para desenvolvimento de aplicações modernas.
 
-## 🚀 Cursos em Andamento
+## 🌱 Projetos Destacados
 
-- **Curso de Java Completo - Programação Orientada a Objetos + Projetos (Nelio Alves):** Aprimorando minhas habilidades em Java e desenvolvendo projetos práticos para consolidar o aprendizado.
+- **[Biblioteca - Projeto de Controle de Empréstimos](https://github.com/fabiomendesdevl/CONTRLOLE-BIBLIOTECA-CRUD-EMPRESTIMO)**: Uma aplicação desenvolvida como parte do meu curso.
 
-- **Curso em Andamento - One Oracle Next Education Java + Spring Boot:** Iniciando uma jornada de aprendizado intensiva em Java e Spring Boot para aprimorar minhas competências em desenvolvimento.
+## 🔍 Oportunidades de Estágio
 
-## 🌱 Projetos
+Atualmente, busco estágio na área de tecnologia, onde posso aplicar meu conhecimento e aprender em projetos desafiadores. Estou aberto a colaborações e sugestões.
 
-- **[Biblioteca - Projeto desenvolvido na faculdade](https://github.com/fabiomendesdevl/CONTRLOLE-BIBLIOTECA-CRUD-EMPRESTIMO)**
+## 📊 Estatísticas do GitHub
 
-## 🔍 Em Busca de Estágio
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=fabiomendesdevl&show_icons=true&theme=radical)
 
-Atualmente, estou em busca de oportunidades de estágio na área de tecnologia. Sou apaixonado(a) por aprender e colaborar em projetos desafiadores. Se você tiver oportunidades ou sugestões, ficarei feliz em conversar!
+## 📫 Contato
 
-## 📫 Entre em Contato
+- **LinkedIn:** [Fabio Mendes](https://www.linkedin.com/in/fabiomendesdev/)
 
-- **LinkedIn:** [Fabio](https://www.linkedin.com/in/fabiomendesdev/)
-
-Sinta-se à vontade para explorar. Estou sempre aberto(a) a colaborações, feedback construtivo e oportunidades de estágio. Vamos construir algo incrível juntos! 🌟
+Explore meu trabalho e vamos construir soluções inovadoras juntos! 🌟
